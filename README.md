@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=virxec&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=virxec&show_icons=true&show=reviews,prs_merged&theme=gruvbox)
